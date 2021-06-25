@@ -6,7 +6,7 @@ edition = "2018"
 description = "Generate a random AWS Account ID"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/sinofseven/generate-random-aws-account-id"
-
+category = ["command-line-utilities"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
